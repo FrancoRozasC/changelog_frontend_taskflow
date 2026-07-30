@@ -1,0 +1,64 @@
+{
+  "versiones": [
+    {
+      "version": "1.15.93",
+      "fecha": "30-07-2026",
+      "cambios": [
+        {
+          "modulo": "external",
+          "nombre": "Corrección en Perfil Técnico",
+          "descripcion": "Se corrige un error en la creación y edición de perfiles técnicos, evitando la selección de tipos de OT deshabilitados.",
+          "tipo": "fix"
+        }
+      ]
+    },
+    {
+      "version": "1.15.92",
+      "fecha": "29-07-2026",
+      "cambios": [
+        {
+          "modulo": "external",
+          "nombre": "Corrección de error en descargas",
+          "descripcion": "Se corrige el error que existia al intentar descargar excel y pdf en OTS con rango de fechas seleccionado",
+          "tipo": "fix"
+        }
+      ]
+    },
+    {
+      "version": "1.15.91",
+      "fecha": "28-07-2026",
+      "cambios": [
+        {
+          "modulo": "inventory",
+          "nombre": "Configuración de columnas no actualiza automáticamente",
+          "descripcion": "Ahora el sistema permite que en el modal de configuración de columnas el usuario filtre automáticamente cuando se marca o desmarca una casilla.",
+          "tipo": "mejora"
+        },
+        {
+          "modulo": "inventory",
+          "nombre": "Deshabilitar botón de guardar ítem al pulsar",
+          "descripcion": "Se deshabilita el botón de guardar ítem cuando se pulsa para evitar múltiples clics por parte del usuario.",
+          "tipo": "mejora"
+        },
+        {
+          "modulo": "inventory",
+          "nombre": "Validación de usuario en listas seleccionables",
+          "descripcion": "Ahora el sistema filtra los usuarios que se muestran en las listas de acuerdo a su permiso en inventario; si no tiene acceso, no se muestra.",
+          "tipo": "fix"
+        },
+        {
+          "modulo": "general",
+          "nombre": "Módulo de control de cambios",
+          "descripcion": "Se implementó un módulo para el control de cambios en el sistema, donde se declaran las versiones con sus cambios/mejoras/implementaciones nuevas del sistema.",
+          "tipo": "novedad"
+        },
+        {
+          "modulo": "general",
+          "nombre": "Versionamiento en menú lateral",
+          "descripcion": "Ahora en el menú lateral del sistema en la parte inferior aparecerá la versión actual del sistema.",
+          "tipo": "novedad"
+        }
+      ]
+    }
+  ]
+}
