@@ -1,6 +1,18 @@
 {
   "versiones": [
     {
+      "version": "1.15.95",
+      "fecha": "30-07-2026",
+      "cambios": [
+        {
+          "modulo": "inventory",
+          "nombre": "Transferencias a almacenes de destino",
+          "descripcion": "Se solucionó un problema que impedía realizar transferencias a almacenes de destino sobre los cuales el usuario no contaba con permisos de visualización directa.",
+          "tipo": "fix"
+        }
+      ]
+    },
+    {
       "version": "1.15.94",
       "fecha": "30-07-2026",
       "cambios": [
