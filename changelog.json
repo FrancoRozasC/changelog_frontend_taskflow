@@ -1,6 +1,18 @@
 {
   "versiones": [
     {
+      "version": "1.15.94",
+      "fecha": "30-07-2026",
+      "cambios": [
+        {
+          "modulo": "external",
+          "nombre": "Corrección en carga inicial de marcadores en mapa",
+          "descripcion": "Se corrigió la visualización inicial del mapa en Planta Externa para mostrar inmediatamente todas las órdenes de trabajo activas al ingresar. Además, se ajustaron los filtros por defecto ocultando de base las órdenes Anuladas y Finalizadas.",
+          "tipo": "fix"
+        }
+      ]
+    },
+    {
       "version": "1.15.93",
       "fecha": "30-07-2026",
       "cambios": [
