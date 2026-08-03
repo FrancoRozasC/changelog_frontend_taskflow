@@ -1,6 +1,18 @@
 {
   "versiones": [
     {
+      "version": "1.15.98",
+      "fecha": "03-08-2026",
+      "cambios": [
+        {
+          "modulo": "external",
+          "nombre": "Corrección de formato de fecha en exportación PDF y Excel de OTs",
+          "descripcion": "Se corrige el formato de la fecha en el reporte PDF (DD/MM/YYYY) y en el nombre del archivo (DD-MM-YYYY) al exportar OTs.",
+          "tipo": "fix"
+        }
+      ]
+    },
+    {
       "version": "1.15.97",
       "fecha": "03-08-2026",
       "cambios": [
