@@ -1,6 +1,18 @@
 {
   "versiones": [
     {
+      "version": "1.15.96",
+      "fecha": "03-08-2026",
+      "cambios": [
+        {
+          "modulo": "external",
+          "nombre": "Visualización de preguntas en listas de chequeo",
+          "descripcion": "Se agregó un nuevo botón que permite ver rápidamente todas las preguntas de una lista de chequeo desde la tabla principal.",
+          "tipo": "novedad"
+        }
+      ]
+    },
+    {
       "version": "1.15.95",
       "fecha": "30-07-2026",
       "cambios": [
