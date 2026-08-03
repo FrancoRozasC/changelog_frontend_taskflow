@@ -1,6 +1,18 @@
 {
   "versiones": [
     {
+      "version": "1.15.99",
+      "fecha": "03-08-2026",
+      "cambios": [
+        {
+          "modulo": "external",
+          "nombre": "Ordenamiento en tabla de OTS",
+          "descripcion": "Se habilita el ordenamiento ascendente/descendente en las columnas Cliente, Descripción, Dirección, Trabajador y Tipo de tarea.",
+          "tipo": "mejora"
+        }
+      ]
+    },
+    {
       "version": "1.15.98",
       "fecha": "03-08-2026",
       "cambios": [
