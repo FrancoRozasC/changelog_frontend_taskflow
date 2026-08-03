@@ -1,6 +1,18 @@
 {
   "versiones": [
     {
+      "version": "1.15.97,
+      "fecha": "03-08-2026",
+      "cambios": [
+        {
+          "modulo": "internal",
+          "nombre": "Habilitación de permiso Crear en Flujo de OTL",
+          "descripcion": "Se habilita la opción de asignación del permiso 'Crear' para el módulo de Flujo de OTL.",
+          "tipo": "mejora"
+        }
+      ]
+    },
+    {
       "version": "1.15.96",
       "fecha": "03-08-2026",
       "cambios": [
