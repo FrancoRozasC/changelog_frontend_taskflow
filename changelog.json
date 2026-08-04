@@ -1,6 +1,18 @@
 {
   "versiones": [
     {
+      "version": "1.15.100",
+      "fecha": "04-08-2026",
+      "cambios": [
+        {
+          "modulo": "external",
+          "nombre": "Visualización de listas de chequeo en Planta Externa",
+          "descripcion": "Se agregó un nuevo botón que permite ver rápidamente todas las preguntas de una lista de chequeo desde la tabla principal",
+          "tipo": "novedad"
+        }
+      ]
+    },
+    {
       "version": "1.15.99",
       "fecha": "03-08-2026",
       "cambios": [
