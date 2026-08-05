@@ -1,6 +1,18 @@
 {
   "versiones": [
     {
+      "version": "1.15.102",
+      "fecha": "05-08-2026",
+      "cambios": [
+         {
+          "modulo": "external",
+          "nombre": "Mejora en mensaje informativo al desactivar Tipos de OT",
+          "descripcion": "Se clarifica el texto de confirmación al desactivar un tipo de OT, detallando el impacto en perfiles técnicos y el listado completo de estados activos que bloquean su desactivación.",
+          "tipo": "mejora"
+        }
+      ]
+    },
+    {
       "version": "1.15.101",
       "fecha": "05-08-2026",
       "cambios": [
