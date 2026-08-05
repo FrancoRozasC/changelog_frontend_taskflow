@@ -6,7 +6,7 @@
       "cambios": [
         {
           "modulo": "inventory",
-          "nombre": "Se agregaron nuevos permisos para el módulo de Inventario 2",
+          "nombre": "Se agregaron nuevos permisos para el módulo de Inventario",
           "descripcion": "Se crearon permisos para Ubicaciones, Transferencias y Eliminador de transacciones en el módulo de Inventario",
           "tipo": "novedad"
         }
