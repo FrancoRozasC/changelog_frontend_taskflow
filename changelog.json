@@ -1,6 +1,18 @@
 {
   "versiones": [
     {
+      "version": "1.15.101",
+      "fecha": "05-08-2026",
+      "cambios": [
+        {
+          "modulo": "inventory",
+          "nombre": "Se agregaron nuevos permisos para el módulo de Inventario",
+          "descripcion": "Se crearon permisos para Ubicaciones, Transferencias y Eliminador de transacciones en el módulo de Inventario",
+          "tipo": "novedad"
+        }
+      ]
+    },
+    {
       "version": "1.15.100",
       "fecha": "04-08-2026",
       "cambios": [
